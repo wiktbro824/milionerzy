@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1592161418 source:d:\unpack\programowanie\milionerzy\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<locale.h>
+
+1592151894 source:d:\unpack\programowanie\milionerzy\src\pytanie1.cpp
+	"pytanie1.h"
+
+1592151894 d:\unpack\programowanie\milionerzy\include\pytanie1.h
+
+1592245266 source:c:\users\wiki\downloads\milionerzy14062020ver2\milionerzy\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<locale.h>
+	<windows.h>
+	<time.h>
+
